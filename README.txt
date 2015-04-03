@@ -15,9 +15,7 @@ Please report issues at Github: https://github.com/awsmug/Fanpage-import/issues
 
 This is an Awesome Plugin.
 
-Follow us at twitter: http://twitter.com/awsmug 
-
-Follow us at GitHub: https://github.com/awsmug
+twitter: http://twitter.com/awsmug - GitHub: https://github.com/awsmug
 
 == Installation ==
 
