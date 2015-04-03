@@ -1,6 +1,6 @@
 === Facebook Fanpage import ===
 Contributors: mahype, awesome-ug
-Tags: facebook, fanpage
+Tags: facebook, fanpage, import, facebook connect, facebook fanpage, facebook page
 Requires at least: 4.1.1
 Tested up to: 4.1.1
 Stable tag: 1.0.0
